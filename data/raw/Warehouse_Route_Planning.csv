@@ -1,0 +1,13 @@
+Warehouse,Customer_ID,Latitude,Longitude,Demand,Vehicle_Capacity,Priority_Level,Traffic_Condition
+Whse_A,Whse_A_CUST_1,40.4559,-3.7029,228,500,Medium,High
+Whse_A,Whse_A_CUST_2,40.3827,-3.7419,71,500,High,Medium
+Whse_A,Whse_A_CUST_3,40.4244,-3.6743,100,500,Medium,Low
+Whse_C,Whse_C_CUST_1,41.4244,2.2148,201,500,Low,Low
+Whse_C,Whse_C_CUST_2,41.3754,2.217,65,500,Medium,Low
+Whse_C,Whse_C_CUST_3,41.381,2.1782,168,500,Medium,High
+Whse_J,Whse_J_CUST_1,37.4065,-5.9683,51,500,Medium,Low
+Whse_J,Whse_J_CUST_2,37.3765,-6.0009,124,500,Medium,Medium
+Whse_J,Whse_J_CUST_3,37.4181,-5.9772,249,500,Medium,Low
+Whse_S,Whse_S_CUST_1,39.495,-0.4009,71,500,Medium,Medium
+Whse_S,Whse_S_CUST_2,39.468,-0.4056,135,500,Low,Medium
+Whse_S,Whse_S_CUST_3,39.4213,-0.4067,124,500,High,Low
