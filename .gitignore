@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.parquet
+*.xlsx
+*.zip
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
